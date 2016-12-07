@@ -2,3 +2,5 @@
 volam sa majo
 
 a som z RS
+
+novy text
